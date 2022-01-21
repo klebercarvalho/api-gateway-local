@@ -32,7 +32,7 @@
     "express": "^4.17.1",
     "express-http-proxy": "^1.6.0",
     "helmet": "^3.21.0",
-    "log4js": "^5.1.0"
+    "log4js": "^6.4.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.6",
